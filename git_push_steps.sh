@@ -5,8 +5,8 @@
 # ============================================================
 
 # Step 1: Create a new folder and move into it
-mkdir project-1-user-management-backup
-cd project-1-user-management-backup
+mkdir Project-1-Shell-Script-for-User-Management-and-Backup-in-Linux
+cd Project-1-Shell-Script-for-User-Management-and-Backup-in-Linux
 
 # Step 2: Copy your files into this folder
 # (user_mgmt_backup.sh, README.md, LICENSE, .gitignore)
