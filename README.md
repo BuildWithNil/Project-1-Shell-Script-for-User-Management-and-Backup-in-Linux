@@ -63,8 +63,8 @@ project-1-user-management-backup/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/project-1-user-management-backup.git
-cd project-1-user-management-backup
+git clone https://github.com/BuildWithNil/Project-1-Shell-Script-for-User-Management-and-Backup-in-Linux.git
+cd Project-1-Shell-Script-for-User-Management-and-Backup-in-Linux
 ```
 
 ### 2. Make the Script Executable
