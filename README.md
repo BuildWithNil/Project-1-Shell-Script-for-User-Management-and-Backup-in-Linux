@@ -1,6 +1,6 @@
 # 🐧 Project 1 — Shell Script for User Management and Backup in Linux
 
-> **DevOps Zero to Hero** | JunCon by [Build with Nil](https://github.com/BuildWithNil/Project-1-Shell-Script-for-User-Management-and-Backup-in-Linux)
+> [Build with Nil](https://github.com/BuildWithNil/Project-1-Shell-Script-for-User-Management-and-Backup-in-Linux)
 
 ---
 
