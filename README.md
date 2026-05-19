@@ -144,7 +144,7 @@ Enter backup destination directory [default: /tmp/backups]:
 
 ## 📚 Reference
 
-- **GitHub (Course Repo):** [ShellScripting-For-DevOps](https://github.com/BuildWithNil/Project-1-Shell-Script-for-User-Management-and-Backup-in-Linux.git)
+- **GitHub Repo:** [ShellScripting-For-DevOps](https://github.com/BuildWithNil/Project-1-Shell-Script-for-User-Management-and-Backup-in-Linux.git)
 
 ---
 
